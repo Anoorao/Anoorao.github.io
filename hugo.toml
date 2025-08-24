@@ -1,4 +1,4 @@
-baseURL = 'https://Anoorao.github.io/myblog/'
+baseURL = 'https://Anoorao.github.io/HsingBlog/'
 languageCode = 'zh-tw'
 title = 'Hsing-An blog'
 theme = "Paper"

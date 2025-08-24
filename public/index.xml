@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hsing-An blog</title>
-    <link>https://Anoorao.github.io/myblog/</link>
+    <link>https://Anoorao.github.io/HsingBlog/</link>
     <description>Recent content on Hsing-An blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 19 Aug 2025 17:02:01 +0800</lastBuildDate>
-    <atom:link href="https://Anoorao.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Anoorao.github.io/HsingBlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://Anoorao.github.io/myblog/post/hello-world/</link>
+      <link>https://Anoorao.github.io/HsingBlog/post/hello-world/</link>
       <pubDate>Tue, 19 Aug 2025 17:02:01 +0800</pubDate>
-      <guid>https://Anoorao.github.io/myblog/post/hello-world/</guid>
+      <guid>https://Anoorao.github.io/HsingBlog/post/hello-world/</guid>
       <description></description>
     </item>
   </channel>
